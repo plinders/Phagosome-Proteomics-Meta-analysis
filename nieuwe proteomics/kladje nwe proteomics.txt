@@ -1,0 +1,40 @@
+[Chapel 2013]
+non-quantitative Lysosomale proteomics. Subcellulaire fractionatie
+2e tabblad zijn eiwitten verrijkt in lyssosomen
+
+Andere proteomics studies: 14-19
+
+[Duclos 2011] done
+small 100nm latex beads in J447 macrophages, iBMDCs and LPS DCs
+Duidelijke tabel. Incorporeren in andere figuur
+
+
+[Guo 2015]
+non-quantitative proteomics 1 m polystyrene beads characterization of phagosomes from RAW 264.7 and BMM
+duidelijke tabel, de groene eiwitten zijn verijkt in een of andere beest
+
+
+
+Nogte lezen:
+
+Bagshaw, R. D., Mahuran, D. J., and Callahan, J. W. (2005) A proteomic
+analysis of lysosomal integral membrane proteins reveals the diverse
+composition of the organelle. Mol. Cell. Proteomics 4, 133–143
+
+Zhang, H., Fan, X., Bagshaw, R. D., Zhang, L., Mahuran, D. J., and Callahan,
+J. W. (2007) Lysosomal membranes from beige mice contain higher
+than normal levels of endoplasmic reticulum proteins. J. Proteome Res.
+6, 240–249
+
+Schro¨ der, B., Wrocklage, C., Pan, C., Ja¨ ger, R., Ko¨ sters, B., Scha¨ fer, H.,
+Elsa¨ sser, H. P., Mann, M., and Hasilik, A. (2007) Integral and associated
+lysosomal membrane proteins. Traffic 8, 1676–1686
+
+Stahl, S., Reinders, Y., Asan, E., Mothes, W., Conzelmann, E., Sickmann,
+A., and Felbor, U. (2007) Proteomic analysis of cathepsin B- and L-deficient
+mouse brain lysosomes. Biochim. Biophys. Acta 1774, 1237–1246
+
+Della Valle, M. C., Sleat, D. E., Zheng, H., Moore, D. F., Jadot, M., and
+Lobel, P. (2011) Classification of subcellular location by comparative
+proteomic analysis of native and density-shifted lysosomes. Mol. Cell.
+Proteomics 10, M110.006403

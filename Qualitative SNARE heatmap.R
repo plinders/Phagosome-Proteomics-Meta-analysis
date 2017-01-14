@@ -45,7 +45,7 @@ colorends <- c("white", "firebrick2", "white", "orange2", "white", "forestgreen"
 pdf("Qualitative phagosome proteomics heatmap.pdf", paper = "a4")
 ggplot(source_data_clean.s, aes(variable, Name)) +
   geom_tile(aes(fill = valueoffset, shape = substr(type, 1, 3)), colour = "lightgrey", show.legend = TRUE) +
-  geom_vline(xintercept = 2.5) +
+  geom_vline(xintercept = 4.5) +
   scale_fill_gradientn(colours = colorends, values = rescale(gradientends), guide = FALSE) +
   scale_x_discrete("", expand = c(0, 0)) +
   scale_y_discrete("", limits = flevels, expand = c(0, 0)) +
